@@ -1,0 +1,69 @@
+GET  http://localhost:3000/user-api/users 
+//read all users
+
+### read a user by id
+GET http://localhost:3000/user-api/users/3
+
+### create a new user
+POST  http://localhost:3000/user-api/users
+Content-Type: application/json  
+
+{
+    "id":1,
+    "name":"vikas",
+    "age":20
+}
+
+
+### update  a new user
+PUT  http://localhost:3000/user-api/users
+Content-Type: application/json
+
+ {
+    "id":1,
+    "name":"bhanu",
+    "age":22
+  }
+
+
+###
+DELETE  http://localhost:3000/user-api/users/1                           
+//delete and get requests to send data to for do not supported body
+
+//post and put requests to send data to do support the body of the data
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////
+
+//Product API
+###
+GET http://localhost:3000/product-api/products
+
+###
+GET http://localhost:3000/product-api/products/hp
+
+###
+POST http://localhost:3000/product-api/products
+Content-Type: application/json
+
+{
+  "id":1,
+  "name":"Laptop",
+  "brand":"hp",
+  "price":50000
+}
+
+###
+PUT http://localhost:3000/product-api/products
+Content-Type: application/json
+
+{
+  "id":1,
+  "name":"Desktop",
+  "brand":"dell",
+  "price":30000
+}
+
+###
+DELETE http://localhost:3000/product-api/products/1
