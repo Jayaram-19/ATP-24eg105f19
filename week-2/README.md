@@ -2,13 +2,13 @@
 
 This repository contains practical exercises and projects focused on advanced JavaScript concepts and introductory Node.js/Express backend development.
 
-## 📂 Projects & Directories
+##  Projects & Directories
 
 *   **`Backend-1/`**: An introductory backend project using Node.js and Express. Contains basic API routes, a server setup (`server.js`), and HTTP request examples (`req.http`).
 *   **`E-CommerceSystem/`**: A modular JavaScript project simulating an e-commerce platform. It contains distinct modules for carts, discounts, payments, and products, demonstrating advanced object-oriented programming (OOP) and module exports.
 *   **`TaskManagementSystem/`**: A JavaScript project for managing tasks, featuring validation logic (`validator.js`), and task modeling (`task.js`) to demonstrate clear application structure.
 
-## 📜 Utility Scripts & Practice Exercises
+##  Utility Scripts & Practice Exercises
 
 *   **`deepCopy.js` / `shallowCopy.js` / `userCopy.js`**: Demonstrates the concepts of deep and shallow copying objects in JavaScript.
 *   **`employeePayroll.js`**: Simulates an employee payroll system utilizing OOP classes and inheritance.
@@ -24,7 +24,7 @@ This repository contains practical exercises and projects focused on advanced Ja
 *   **`fruit.js`**: A script demonstrating array and object manipulations with real-world entities.
 *   **`OTPSimulator.js`**: Simulates generating and validating One Time Passwords (OTPs) using asynchronous programming or random generation logic.
 
-## 🚀 Setup & Execution
+##  Setup & Execution
 
 To run any of the standalone JavaScript files, use Node.js in your terminal:
 ```bash
