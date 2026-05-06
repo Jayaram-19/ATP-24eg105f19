@@ -2,7 +2,7 @@
 
 Welcome to the **Week 5** folder! This directory contains various exercises and projects focusing on advanced CSS layouts and foundational React concepts.
 
-## 📂 Folder Structure
+## Folder Structure
 
 - **`assignment/`**
   Contains the main assignment tasks for this week.
@@ -15,7 +15,7 @@ Welcome to the **Week 5** folder! This directory contains various exercises and 
 - **`tables/`**
   HTML and CSS practice focused on structuring and styling tabular data.
 
-## 🚀 Getting Started
+##  Getting Started
 
 To view the standard HTML/CSS projects (like flex layouts and tables), simply open the respective `index.html` files in your web browser. 
 
