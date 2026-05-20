@@ -1,5 +1,5 @@
 import {Schema,model} from 'mongoose'
-
+//creating schema
 const productSchema = new Schema({
   productId:{
     type:Number,
