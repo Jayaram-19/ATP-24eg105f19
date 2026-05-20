@@ -1,17 +1,21 @@
+/*adding styles to head*/
 .head{
   padding:50px;
   background-color: antiquewhite;
 }
+/*adding styles to the button in head*/
 .head button{
   background-color: rgb(13, 95, 226);
   color:white;
   border:0;
   padding:5px;
 }
+/*adding styles to the child division*/
 .child{
   display:flex;
   margin:20px 50px;
 }
+/*adding styles to the button in child division*/ 
 .child button{
   background-color: rgb(104, 96, 96);
   color:white;
