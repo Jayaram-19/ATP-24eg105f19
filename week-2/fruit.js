@@ -22,8 +22,10 @@
                         
 //                          Original array should NOT change.
 
-
+// fruits array
  let fruits = ["apple", "banana"];
+//using spread operator for copying
+
 let fr=[...fruits,"pineapple","mango"];
 
 console.log(fruits,fr)
