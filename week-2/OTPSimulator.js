@@ -10,6 +10,7 @@
 //         Allow resend only after countdown ends
 console.log("OTP Sent Successfully")
 let countdown=10;
+//using set interval to make a countdown
 const countdownInterval=setInterval(()=>{
 countdown--;
 console.log(countdown+" seconds remaining");
