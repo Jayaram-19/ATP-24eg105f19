@@ -7,6 +7,7 @@
 //         After 4 seconds → show: “Result: Pass”
 
 console.log("Exam submiteed successfully")
+// using setTimeout for making a time gap
 setTimeout(()=>{
 console.log("Evaluating answers...")
 },2000)
