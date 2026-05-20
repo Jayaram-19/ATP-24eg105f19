@@ -1,5 +1,5 @@
-//write a function that recieves any no of args nad return their sum
-
+//write a function that recieves any no of args and return their sum
+//using spread operator
 const findSum=(...numbers)=>{
 return numbers.reduce((sum,ele)=>sum+ele)
 }
